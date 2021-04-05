@@ -1,0 +1,29 @@
+body *{
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+body{
+   background: linear-gradient(30deg, burlywood, navajowhite, burlywood, navajowhite);
+}
+
+h1{
+    font-size: 6em;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    text-align: center;
+    -webkit-text-stroke: 2px sienna;
+    font-family: "Segoe UI Black";
+    margin: 0.8em;
+    padding: 0.5em;
+}
+
+footer{
+	font-family: "Segoe UI Black";
+	font-size: 1.5em;
+	text-align: center;
+	background-color: sienna;
+	padding: 1.2em;
+	-webkit-text-fill-color: transparent;
+	-webkit-text-stroke: 1px navajowhite;
+}
